@@ -7,11 +7,9 @@
 
 - 📫 How to reach me **rattasat.onn@gmail.com**
 
-- ⚡ Fun fact **I think I am Noob**
+- ⚡ Fun fact **I think I am good enough.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/chxmpizz._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chxmpizz._" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chxmpizy&show_icons=true&locale=en" alt="chxmpizy" /></p>
